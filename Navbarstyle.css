@@ -61,7 +61,7 @@ nav ul li a
 
 nav ul li a:first-child
 {
-  padding:;
+  padding:10px 20px;
 }
 
 nav ul li a.active, 
